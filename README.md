@@ -13,4 +13,4 @@ user-profile
 ![my-profile-section](https://user-images.githubusercontent.com/108517129/177130203-bc39dc3c-a96d-4762-a47a-5547c24e1e02.PNG)
 admin-add-product
 ![adminArticle Ad](https://user-images.githubusercontent.com/108517129/177130261-42e4a3c3-37ad-42b3-9aa6-c4198232baba.PNG)
-![admin-add product](https://user-images.githubusercontent.com/108517129/177130545-1518f0e7-796c-4f7a-925d-7ef6759570a7.PNG)
+
