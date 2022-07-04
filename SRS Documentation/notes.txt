@@ -1,0 +1,6 @@
+Thymeleaf is a server-side Java-based template engine for both web and standalone environments, capable of processing HTML, XML, JavaScript, CSS and even plain text. It is more powerful than JPS and responsible for dynamic content rendering on UI. The engine allows a parallel work of the backend and frontend developers on the same view. It can directly access the java object and spring beans and bind them with UI. And it is mostly used with spring MVC when we create any web application.
+
+
+controller talking to service and service to DAO
+
+Config talking to service service to DAO
